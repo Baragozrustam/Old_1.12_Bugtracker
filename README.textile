@@ -1,11 +1,11 @@
-<b><size=5>Welcome to the Phoenix 1.12 Bugtracker!</size></b>
+<b><font size="5">Welcome to the Phoenix 1.12 Bugtracker!</font></b>
 
 
 <b>Before reporting any issue:</b><ul>
 <li>Clear your cache (additional: wtf) folders of your game client. As the data of your client can interfere with data of our server, there is a possibility that your issue is not a server side issue, but caused by your clients cache</li>
 <li>For gathering quest issues: Abandon and retake the quest in particular</li>
 <li>Ask other players if the same issue is encountered</li>
-<li>Always visit Blizzlike websites like <url="http://www.wowhead.com">Wowhead</url> or <url="http://www.wowwiki.com">WoWWiki</url> to familiarize yourself with the matter and assumed issue. Beware of the fact that game functionalities as uled might differ from our patch</li>
+<li>Always visit Blizzlike websites like <a href="http://www.wowhead.com"><tt>Wowhead</tt></a> or <a href="http://www.wowwiki.com"><tt>WoWWiki</tt></a> to familiarize yourself with the matter and assumed issue. Beware of the fact that game functionalities as uled might differ from our patch</li>
 </ul>
 
 If you performed the actions as described above, and your issue still persists you can make a report on our issue tracker
